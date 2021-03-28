@@ -8,7 +8,7 @@
 	<div class="container">
 		<div class="navbar-brand">
 			<a href="/" class="navbar-item">
-				<img src="/static/savana.png" alt="savana logo">
+				<img src="/savana.png" alt="savana logo">
 			</a>
 		</div>
 		<div class="navbar-menu">
